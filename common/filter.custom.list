@@ -1,3 +1,5 @@
 # Discord
 DOMAIN,discord.com,PROXY
 DOMAIN,discord.gg,PROXY
+DOMAIN,discordapp.com,PROXY
+DOMAIN,discordapp.net,PROXY
