@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,discord.com,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
 DOMAIN-SUFFIX,discordapp.com,PROXY
 DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-SUFFIX,sentry.io,REJECT
