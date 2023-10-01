@@ -1,5 +1,5 @@
 # ---Block------------------
-DOMAIN-SUFFIX,sentry.io,REJECT
+# DOMAIN-SUFFIX,sentry.io,REJECT
 # ---LinkedIn------------------
 # DOMAIN-SUFFIX,linkedin.com,LinkedIn
 # ---ChatGPT------------------
