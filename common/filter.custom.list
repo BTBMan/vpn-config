@@ -1,22 +1,22 @@
 # ---Block------------------
 DOMAIN-SUFFIX,sentry.io,REJECT
 # ---LinkedIn------------------
-DOMAIN-SUFFIX,linkedin.com,LinkedIn
+# DOMAIN-SUFFIX,linkedin.com,LinkedIn
 # ---ChatGPT------------------
-DOMAIN-SUFFIX,ai.com,ChatGPT
-DOMAIN-SUFFIX,openai.com,ChatGPT
-DOMAIN-SUFFIX,auth0.com,ChatGPT
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,ChatGPT
+# DOMAIN-SUFFIX,ai.com,ChatGPT
+# DOMAIN-SUFFIX,openai.com,ChatGPT
+# DOMAIN-SUFFIX,auth0.com,ChatGPT
+# DOMAIN-SUFFIX,openaiapi-site.azureedge.net,ChatGPT
 # ---Apple------------------
-DOMAIN-SUFFIX,apple.co,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
-DOMAIN-SUFFIX,apple.com,Apple
+# DOMAIN-SUFFIX,apple.co,Apple
+# DOMAIN-SUFFIX,cdn-apple.com,Apple
+# DOMAIN-SUFFIX,apple.com,Apple
 # ---Normal ----------------------------------------------
 # Suffix
 # ---Discord------------------
-DOMAIN-SUFFIX,discord.com,PROXY
-DOMAIN-SUFFIX,discord.gg,PROXY
-DOMAIN-SUFFIX,discordapp.com,PROXY
-DOMAIN-SUFFIX,discordapp.net,PROXY
-DOMAIN-SUFFIX,dev.to,PROXY
-DOMAIN-SUFFIX,forem.com,PROXY
+# DOMAIN-SUFFIX,discord.com,PROXY
+# DOMAIN-SUFFIX,discord.gg,PROXY
+# DOMAIN-SUFFIX,discordapp.com,PROXY
+# DOMAIN-SUFFIX,discordapp.net,PROXY
+# DOMAIN-SUFFIX,dev.to,PROXY
+# DOMAIN-SUFFIX,forem.com,PROXY
